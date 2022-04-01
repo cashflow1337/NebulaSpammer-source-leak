@@ -1,2 +1,2 @@
-# NebulaSpammer-source
+# NebulaSpammer aka AstarothSpammer
  
